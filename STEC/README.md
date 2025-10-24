@@ -4,4 +4,4 @@ Whilst completing the MoT Software Testing Essentials Certificate I intend to do
 
 ## Lesson Activities
 
-- [Activities/Lesson3.md](Lesson 3: Describe software testing to anybody)
+- [Lesson 3: Describe software testing to anybody](Activities/Lesson3.md)
