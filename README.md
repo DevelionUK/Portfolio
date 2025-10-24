@@ -1,2 +1,3 @@
 # Portfolio
-Personal portfolio
+Personal portfolio.
+This has only just been started.
