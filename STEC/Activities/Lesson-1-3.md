@@ -1,6 +1,8 @@
 # Software Testing Essentials Certificate
 
-## Lesson 3: Describe software testing to anybody
+## Module 1 Lesson 3 - The many ways people talk about testing
+
+## Activity: Describe software testing to anybody
 
 This activity had me reflecting upon definitions of software testing. Correctness and assessing the product are common themes with many others also thinking about uncovering information. Subsequently I wanted my definition to include this discovery / exploratory aspect whilst highlighting the goals of knowing whether the software sovles the customer's need (meets requirements) and is of sufficient quality (shippable state).
 
