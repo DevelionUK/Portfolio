@@ -2,6 +2,20 @@
 
 This is the personal profile for Richard Adams, a quality and testing specialist based in the UK.
 
+## Ethos
+
+I believe in continuous quality and building quality into our products. This is more than having a bunch of automated tests. It is refinement and planning. It is learning and growing. It is understanding our users and building what they need. Finally I am a believer in being effective with our testing efforts. Automate our ACs and behaviours then explore to discover more about our solution.
+
+## Skills
+
+I would describe my key skills:
+
+- Excellent adhoc & exploratory testing: I find bugs.
+- Leader on quality with coaching and teaching experience plus delivered many initiatives on quality.
+- User focused
+
+For a fuller list of my technical and soft skills, including tools etc, then check out my [Skills](skills.md) page.
+
 ## Speaking, Teaching & Courses
 
 I have spoken at several conferences, primarily on security and threat modelling. Here's some highlights.
