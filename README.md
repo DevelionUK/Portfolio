@@ -32,5 +32,6 @@ A series of 9 small challenges that will help guide you through making basic att
 - [Personal Blog on Quality & Testing](http://r-adams.co.uk/)
 - [MoT Profile](https://www.ministryoftesting.com/p/oxygenaddict)
 - [LinkedIn](https://www.linkedin.com/in/richard-adams-9613b47/)
+- [Instagram](https://www.instagram.com/oxygenaddictuk/) (mainly pictures of my garden)
 
 Note: I've not used most other social media for many years.
