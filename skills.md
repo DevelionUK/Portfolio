@@ -102,7 +102,7 @@ Productivity Tools:
 - Target Process (been a few years)
 - Test Management Tools: Test Rail & TestLink
 - Collaboration tools: Mural & LucidChart
-- Repositories: BitBucket, [GitHub](README.md), Jenkins, Perforce, SVN
+- Repositories: BitBucket, [GitHub](README.md), Mercurial, Perforce, SVN
 
 ### Anything Else
 
