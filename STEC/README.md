@@ -20,7 +20,7 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 ### Module 3 - The secret skill set of software testers
 
 - [Lesson 3: Testing heuristics, mnemonics and oracles in practice](Activities/Lesson-3-3.md)
-- [Lesson 5: Building your tester skills plan](Activities/Lesson-3-5.md) - STILL TO DO
+- [Lesson 5: Building your tester skills plan](Activities/Lesson-3-5.md)
 
 ### Module 4 - Testing fundamentals and techniques 
 
@@ -30,6 +30,10 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 - [Lesson 8: Applying testing techniques: Hands-on webpage testing](Activities/Lesson-4-8.md) - STILL TO DO
 
 ### Module 5 - The struggles of software testing
+
+- [Lesson 2: The relationship between testing and quality](Activities/Lesson-5-2.md)
+- [Lesson 4: Personal reflections on metrics](Activities/Lesson-5-4.md)
+- [Lesson 6: Reflection activity](Activities/Lesson-5-6.md) - STILL TO DO
 
 ### Module 6 - Risky business: The relationship between testing and risk
 
