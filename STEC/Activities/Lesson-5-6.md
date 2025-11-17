@@ -1,6 +1,6 @@
 # Software Testing Essentials Certificate
 
-## Module 5 Lesson 2: The relationship between testing and quality
+## Module 5 Lesson 6: What makes it 'good'? How budget and use cases shape quality
 
 ### Activity (Reflection) 
  

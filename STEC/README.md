@@ -33,9 +33,16 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 
 - [Lesson 2: The relationship between testing and quality](Activities/Lesson-5-2.md)
 - [Lesson 4: Personal reflections on metrics](Activities/Lesson-5-4.md)
-- [Lesson 6: Reflection activity](Activities/Lesson-5-6.md) - STILL TO DO
+- [Lesson 6: Reflection activity](Activities/Lesson-5-6.md)
 
 ### Module 6 - Risky business: The relationship between testing and risk
+
+- [Lesson 2: What are three key questions to uncover risks in this project?](Activities/Lesson-6-2.md)
+- [Lesson 3: Reflection activity](Activities/Lesson-6-3.md)
+- [Lesson 4: Reflection activity](Activities/Lesson-6-4.md)
+- [Lesson 5: Applying techniques](Activities/Lesson-6-5.md)
+- [Lesson 7: Complete a Risk Register table](Activities/Lesson-6-7.pdf)
+- [Lesson 8: A security vulnerability](Activities/Lesson-6-8.md)
 
 ### Module 7 - The complexity of software testing
 
