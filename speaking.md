@@ -32,7 +32,7 @@ Here's a list of talks, workshops, activities and courses that I've delivered:
 Ministry of Testing provide the opportunity to give a talk on any topic for 99 seconds. Take too long and the buzzer goes ... and you'll be ushered off the stage!
 I've used them to help feel comfortable speaking and also share a topic that I don't think gets much attention.
 
-- TestBash X Edinburgh (2022): Threat Modelling * (my first ever speaking attempt!) *
+- TestBash X Edinburgh (2022): Threat Modelling *(my first ever speaking attempt!)*
 - TestBash World 2022:
   - [99 Second Talk](https://www.ministryoftesting.com/testbash-sessions/99-second-talks-testbash-world-2022-part-1?s_id=19028533) on benefits of looking at code repos as a tester
   - Talked about using MoT Pro membership (there's a recording somewhere!)
