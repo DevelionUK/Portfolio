@@ -1,6 +1,6 @@
 using OpenQA.Selenium;
 
-namespace SecurityTestActivities.PageDrivers;
+namespace CSharpSelenium.PageDrivers;
 
 /// <summary>
 /// Page driver for the Injection Theory page.

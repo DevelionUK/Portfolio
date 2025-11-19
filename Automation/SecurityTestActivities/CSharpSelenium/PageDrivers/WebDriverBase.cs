@@ -1,6 +1,6 @@
 using OpenQA.Selenium;
 
-namespace SecurityTestActivities.PageDrivers;
+namespace CSharpSelenium.PageDrivers;
 
 /// <summary>
 /// Base class for WebDriver page drivers.

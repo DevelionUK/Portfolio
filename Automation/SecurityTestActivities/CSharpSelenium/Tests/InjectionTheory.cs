@@ -1,7 +1,7 @@
-﻿using SecurityTestActivities.PageDrivers;
+﻿using CSharpSelenium.PageDrivers;
 using OpenQA.Selenium.Chrome;
 
-namespace SecurityTestActivities.Tests;
+namespace CSharpSelenium.Tests;
 
 /// <summary>
 /// Tests for the Injection Theory page

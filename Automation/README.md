@@ -17,11 +17,20 @@ I have also had limited professional experience with typescript frameworks:
 - Protractor
 - Jest
 
-I've also used CppUnit but hated that!
+I've also used CppUnit.
 
 ### Projects
 
 As obviously I can't share any of the professional work I've done, instead I'm adding a few small projects to demonstrate usage of some frameworks / techniques.
 
-- [Selenium and C#](Selenium-C#)
-- TDD Workshop (coming soon)
+#### Security Test Activities
+
+[SecurityTestActivities](Security Test Activities)
+
+I've created a suite of activities for people to practice & learn basic security testing with. Within this solutuion I will be using different frameworks to test that the pages are working.
+
+So far I've used Selenium with C#.
+
+#### TDD Workshop
+
+(coming soon)
