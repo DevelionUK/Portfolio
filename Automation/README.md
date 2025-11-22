@@ -31,6 +31,10 @@ I've created a suite of activities for people to practice & learn basic security
 
 So far I've used Selenium with C#.
 
+#### Cypress
+
+To experiment with Cypress I have created two projects so far. One to test my [Threat Agents Remote](https://threatagentsgame.com/remote/) application and another for API testing with a sample API application that I have.
+
 #### TDD Workshop
 
 (coming soon)
