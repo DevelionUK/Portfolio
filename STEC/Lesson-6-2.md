@@ -1,6 +1,8 @@
 # Software Testing Essentials Certificate
 
-## Module 5 Lesson 2: Question oracles and artefacts to uncover risks
+[STEC Home](README.md)
+
+## Module 6 Lesson 2: Question oracles and artefacts to uncover risks
 
 ### Bling-R-US Notes
 
@@ -19,7 +21,7 @@ Scenario:
 
 Specs:
 - GDPR & privacy
-- High quality images for profiles (of jewelry I think?)
+- High quality images for profiles (of jewellery I think?)
 - "Reasonable number" is vague.
 - Order artefacts should be invoice (for customer) and work order (for company)
 - Visually nice & user friendly

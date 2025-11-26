@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 6 Lesson 8: Sharing risks: How to communicate risk information
 
 ### Activity: A security vulnerability

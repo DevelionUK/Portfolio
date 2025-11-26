@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 2 Lesson 3: The key skills and traits of a software tester
 
 ### Activity: Map key skills to essential testing tasks 

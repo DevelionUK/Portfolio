@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 3 Lesson 3: Testing heuristics, mnemonics and oracles in practice
 
 ### Mini Activity: Goldilocks

@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 1 Lesson 3 - The many ways people talk about testing
 
 ## Activity: Describe software testing to anybody

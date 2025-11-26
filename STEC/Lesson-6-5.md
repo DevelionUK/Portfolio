@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 6 Lesson 5: Put risk techniques to the test!
 
 ### Activity

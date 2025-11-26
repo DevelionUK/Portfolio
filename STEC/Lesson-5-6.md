@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 5 Lesson 6: What makes it 'good'? How budget and use cases shape quality
 
 ### Activity (Reflection) 

@@ -1,10 +1,10 @@
 # Software Testing Essentials Certificate
 
-Whilst completing the MoT Software Testing Essentials Certificate I intend to document my exercises publically on GitHub.
+Whilst completing the MoT Software Testing Essentials Certificate I intend to document my exercises publicly on GitHub.
 
 ## Lesson Activities
 
-Note that not every lesson has an activity. Some lessons will prompt for reflection and in several occassions I will write this down as a personal reflection.
+Note that not every lesson has an activity. Some lessons will prompt for reflection and in several occasions I will write this down as a personal reflection.
 
 ### Module 1 - What is software testing?
 
@@ -45,6 +45,12 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 - [Lesson 8: A security vulnerability](Activities/Lesson-6-8.md)
 
 ### Module 7 - The complexity of software testing
+
+- [Lesson 1: What does system thinking mean to you?](Activities/Lesson-7-1.md)
+- [Lesson 2: Formulate questions to uncover how a system works](Activities/Lesson-7-2.md)
+- [Lesson 3: Mapping the system](Activities/Lesson-7-3.md)
+- [Lesson 4: Reflection activity](Activities/Lesson-7-4.md)
+- [Lesson 5: Multiple activities on modelling](Activities/Lesson-7-5.md)
 
 ### Module 8: Gather better information, understanding requirements
 

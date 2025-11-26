@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 2 Lesson 3: Mind the gap! Use thought techniques to identify assumptions and overcome biases
 
 ### Reflection
@@ -8,7 +10,7 @@ This isn't the first time that I've had this thought but it was interesting read
 
 > "Why was that my initial thought?"
 
-In the past I undertook Cognative Behaviour Therapy, aka CBT (I've also done my motorbike CBT!). I had a bunch of forms that were about challenging your thinking and they could be a really interesting thing to explore further when it comes to testing. Why do I have low confidence in software? Why am I concerned about stability?
+In the past I undertook Cognitive Behaviour Therapy, aka CBT (I've also done my motorbike CBT!). I had a bunch of forms that were about challenging your thinking and they could be a really interesting thing to explore further when it comes to testing. Why do I have low confidence in software? Why am I concerned about stability?
 
 Later I hope to write a blog post on this and will hopefully remember to update this page!
 

@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 6 Lesson 4: How to contribute to risk analysis sessions
 
 ### Test Bytes notes
@@ -21,7 +23,7 @@ Interesting thoughts:
 
 Reflecting upon what was discussed and my own experiences, I feel like I've definitely had gaps in my risk analysis. However at the same time, I've probably (when enabled) been asking the right questions but perhaps not framed as risks. For example instead of thinking about the risk of network loss, I'd straight add it as a test case. Some of this was instinctive as I've seen patterns, know about past experiences etc and don't need to "think" about those risks. They are always there.
 
-Two areas where I think that I could have done better were championing and a quality focus. To elaborate, I did some risk analysis with teams (and independently) but it was shallow. Occassionally I did get us doing more deeper risk analysis but the group were only really willing to accept it as a novelty / rarity. "Something a bit different". I should have been stronger in pushing us to do more risk analysis.
+Two areas where I think that I could have done better were championing and a quality focus. To elaborate, I did some risk analysis with teams (and independently) but it was shallow. Occasionally I did get us doing more deeper risk analysis but the group were only really willing to accept it as a novelty / rarity. "Something a bit different". I should have been stronger in pushing us to do more risk analysis.
 
 For the second part, I don't have access to any of the risks I had in the past but I think I did get a little too project focused rather than quality focused with them. As alluded to earlier, I think that I was basically skipping the "risk" stage and going straight to "what could impact quality?" ... "I'll test for that", rather than defining and prioritising the risk.
 

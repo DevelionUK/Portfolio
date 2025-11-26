@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 4 Lesson 3: Testing input fields: Intuitive approach to uncovering issues
 
 ### Activity 1: Intuitive approach to uncovering issues

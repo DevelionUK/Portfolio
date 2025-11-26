@@ -1,12 +1,12 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 3 Lesson 5: Building your tester skills plan
 
 ### Activity: Your tester skills plan
 
 #### Section 1: Self-assessment of key skills
-
-
 
 ##### Strengths
 

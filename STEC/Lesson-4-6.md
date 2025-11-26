@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 4 Lesson 6: Testing personas and their uses
 
 ### Previous Work

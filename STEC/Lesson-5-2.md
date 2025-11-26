@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 5 Lesson 2: The relationship between testing and quality
 
 ### Activity (Reflection) 

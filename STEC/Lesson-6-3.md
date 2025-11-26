@@ -1,5 +1,7 @@
 # Software Testing Essentials Certificate
 
+[STEC Home](README.md)
+
 ## Module 6 Lesson 3: Six powerful techniques for risk analysis
 
 ### Experience Notes
