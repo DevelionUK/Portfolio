@@ -12,7 +12,7 @@ This isn't the first time that I've had this thought but it was interesting read
 
 In the past I undertook Cognitive Behaviour Therapy, aka CBT (I've also done my motorbike CBT!). I had a bunch of forms that were about challenging your thinking and they could be a really interesting thing to explore further when it comes to testing. Why do I have low confidence in software? Why am I concerned about stability?
 
-Later I hope to write a blog post on this and will hopefully remember to update this page!
+I later wrote a [blog post](https://www.r-adams.co.uk/2025/11/28/challenging-our-thinking-with-cbt/) on this topic.
 
 ### Activity: Use the 5Ws and H Framework to Challenge Assumptions
 
