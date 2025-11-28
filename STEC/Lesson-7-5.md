@@ -20,7 +20,7 @@ I'm going to cheat and skip this exercise. I've created dozens of DFDs down the 
 
 - ["We Are Angry" for activity session](ExistingResources\DFD-WeAreAngry-2022.pdf)
 - [More advanced "We Are Angry" for multiple uses](ExistingResources\DFD-WeAreAngry-2023.pdf)
-- ["Government Test Results System" for a talk & workshop](ExistingResources\DFD-ThreatModelingWorkshop.drawio.pdf].
+- ["Government Test Results System" for a talk & workshop](ExistingResources\DFD-ThreatModelingWorkshop.drawio.pdf)
 
 (For obvious reasons, I can't include diagrams for real projects)
 
