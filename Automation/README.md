@@ -25,7 +25,7 @@ As obviously I can't share any of the professional work I've done, instead I'm a
 
 #### Security Test Activities
 
-[SecurityTestActivities](Security Test Activities)
+[Security Test Activities](SecurityTestActivities)
 
 I've created a suite of activities for people to practice & learn basic security testing with. Within this solutuion I will be using different frameworks to test that the pages are working.
 
