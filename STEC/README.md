@@ -54,6 +54,12 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 
 ### Module 8: Gather better information, understanding requirements
 
+- [Lesson 1: Define and analyse requirements](Activities/Lesson-8-1.md)
+- [Lesson 3: Analysing and clarifying ambiguous requirements](Activities/Lesson-8-3.md)
+- [Lesson 4: Finding testing opportunities in a requirement](Activities/Lesson-8-4.md)
+- [Lesson 5: Discovering Hidden Requirements](Activities/Lesson-8-5.md)
+- [Lesson 6: Evaluating requirement testability](Activities/Lesson-8-6.md)
+ 
 ### Module 9: Exploring test design
 
 ### Module 10: Doing the testing work
