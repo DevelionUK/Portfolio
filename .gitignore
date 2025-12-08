@@ -2,3 +2,5 @@
 /Automation/SecurityTestActivities/CSharpSelenium/bin
 /Automation/SecurityTestActivities/CSharpSelenium/obj
 /Automation/Cypress/node_modules
+/Automation/SecurityTestActivities/LayeredAcceptanceTests/bin
+/Automation/SecurityTestActivities/LayeredAcceptanceTests/obj
