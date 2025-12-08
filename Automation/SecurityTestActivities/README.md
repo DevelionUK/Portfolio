@@ -23,3 +23,5 @@ As it has been a few years I decided to revisit SpecFlow, only to discover it ha
 Within this project I have a feature file that details the expected behaviour in human readable language (gherkin). I'm then using the step definitions to map that to actual things that are done at a code level but the actual Selenium is then within a driver class. This means then when looking at the step definitions you're seeing what is being done, but not the mechanics of how. In theory if I wanted to switch from NUnit to MS Test or Selenium to another driver, I'm just changing my driver layer code. Behaviours and steps are the same as before.
 
 I'll admit that I'm not happy with my scenarios, or including the tear down in the step definition class and having "driver." throughout... but it is quite nice having this behaviour differentiated.
+
+For clarity, I have deliberately avoided using the term "BDD" here as I'm writing the tests after the fact. They may be similar to what I'd look to do when working within BDD but the most crucial aspect of BDD is that discovery phase.
