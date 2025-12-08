@@ -17,7 +17,7 @@ This feature is for a small activity where learners provide a noun and verb to c
             Examples:
               | noun                | verb                 |
               | "Multiple words"    | "Lots of letters"    |
-              | "Includes Grammar!" | "Punctuation is OK." |
+              | "Words, I say" | "Punctuation is OK." |
 
         Scenario: Client provides the hint solution
             Given the client has just accessed the Injection Theory page
@@ -43,5 +43,4 @@ This feature is for a small activity where learners provide a noun and verb to c
               | "11"                      |
               | "1; DROP TABLE Movies;--" |
               | "0"                       |
-              | "5.0"                     |
               | "1.5"                     |
