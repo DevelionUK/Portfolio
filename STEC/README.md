@@ -62,6 +62,15 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
  
 ### Module 9: Exploring test design
 
+- [Lesson 1: What is your understanding of test design?](Activities/Lesson-9-1.md)
+- [Lesson 2: Exploring testing types](Activities/Lesson-9-2.md)
+- [Lesson : ](Activities/Lesson-9-.md)
+- [Lesson : ](Activities/Lesson-9-.md)
+- [Lesson : ](Activities/Lesson-9-.md)
+- [Lesson : ](Activities/Lesson-9-.md)
+- [Lesson ](Activities/Lesson-9-.md)
+- [Lesson ](Activities/Lesson-9-.md)
+
 ### Module 10: Doing the testing work
 
 ### Module 11: The outputs of software testing
