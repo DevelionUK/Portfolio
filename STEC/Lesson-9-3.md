@@ -2,7 +2,7 @@
 
 [STEC Home](README.md)
 
-## Module 9 Lesson  3: A toolkit of test design techniques and fundamentals
+## Module 9 Lesson 3: A toolkit of test design techniques and fundamentals
 
 ### Activity: Applying test design techniques to testing scenarios
 

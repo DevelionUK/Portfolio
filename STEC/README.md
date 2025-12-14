@@ -64,7 +64,7 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 
 - [Lesson 1: What is your understanding of test design?](Activities/Lesson-9-1.md)
 - [Lesson 2: Exploring testing types](Activities/Lesson-9-2.md)
-- [Lesson : ](Activities/Lesson-9-.md)
+- [Lesson 3: Applying test design techniques to testing scenarios](Activities/Lesson-9-3.md)
 - [Lesson : ](Activities/Lesson-9-.md)
 - [Lesson : ](Activities/Lesson-9-.md)
 - [Lesson : ](Activities/Lesson-9-.md)
