@@ -71,6 +71,10 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 
 ### Module 10: Doing the testing work
 
+- [Lesson 1: Fail to prepare, prepare to fail](Activities/Lesson-10-1.md)
+- [Lesson 3: Run an exploratory testing session and share your findings!](Activities/Lesson-10-3.md)
+- [Lesson 5: Experiment with different note taking techniques](Activities/Lesson-10-5.md)
+
 ### Module 11: The outputs of software testing
 
 ### Module 12: The art of communicating testing
