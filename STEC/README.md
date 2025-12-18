@@ -65,11 +65,9 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 - [Lesson 1: What is your understanding of test design?](Activities/Lesson-9-1.md)
 - [Lesson 2: Exploring testing types](Activities/Lesson-9-2.md)
 - [Lesson 3: Applying test design techniques to testing scenarios](Activities/Lesson-9-3.md)
-- [Lesson : ](Activities/Lesson-9-.md)
-- [Lesson : ](Activities/Lesson-9-.md)
-- [Lesson : ](Activities/Lesson-9-.md)
-- [Lesson ](Activities/Lesson-9-.md)
-- [Lesson ](Activities/Lesson-9-.md)
+- [Lesson 4: Activity 1: Use heuristics to improve test cases](Activities/Lesson-9-4-1.md)
+- [Lesson 4: Activity 2: Design test cases using heuristics](Activities/Lesson-9-4-2.md)
+- [Lesson 5: Define adaptable test design](Activities/Lesson-9-5.md)
 
 ### Module 10: Doing the testing work
 
