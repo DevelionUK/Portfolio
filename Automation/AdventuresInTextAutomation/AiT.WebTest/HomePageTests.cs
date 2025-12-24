@@ -11,13 +11,14 @@ public class HomePageTests : PageTest
         await Page.GotoAsync("http://localhost:5109/");
 
         // Expect a title "to contain" a substring.
-        await Expect(Page).ToHaveTitleAsync(new Regex("Adventures In Text"));
+        await Expect(Page).ToHaveTitleAsync(new Regex("Adventures in Text"));
     }
 
     [TestMethod]
     public async Task HomePageHasGameLink()
     {
-        var getStarted = Page.GetByText("Game");
+        await Page.GotoAsync("http://localhost:5109/");
+        var getStarted = Page.GetByTestId("game-link");
 
         await Expect(getStarted).ToHaveAttributeAsync("href", "/Game");
 
