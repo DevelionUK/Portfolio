@@ -23,6 +23,16 @@ public abstract class BasePageModel
         return await header.TextContentAsync();
     }
 
+    public async Task<ILocator> GetGameNavbarElement()
+    {
+        return Page.GetByTestId("game-link");
+    }
+
+    public async Task ClickItem(ILocator locator)
+    {
+        await locator.ClickAsync();
+    }
+
     protected async Task GotoUrl(string url)
     {
         await Page.GotoAsync(url);
