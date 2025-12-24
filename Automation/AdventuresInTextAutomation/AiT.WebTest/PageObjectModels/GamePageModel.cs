@@ -1,33 +1,16 @@
 using Microsoft.Playwright;
-using Microsoft.Playwright.MSTest;
 
 namespace AiT.WebTest.PageObjectModels;
 
-public class GamePageModel
+public class GamePageModel : BasePageModel
 {
     private const string GameUrl = "http://localhost:5109/Game/Reset";
-    public IPage Page { get; private set; }
 
-    public GamePageModel(IPage page)
-    {
-        Page = page;
-    }
+    public GamePageModel(IPage page) : base(page) { }
 
     public async Task Setup()
     {
-        await Page.GotoAsync(GameUrl);
-    }
-    
-    public async Task<string> GetTitle()
-    {
-        return await Page.TitleAsync();
-    }
-    
-    public async Task<string?> GetHeader(int level)
-    {
-        var header = Page
-            .GetByRole(AriaRole.Heading, new() { Level = level });
-        return await header.TextContentAsync();
+        await GotoUrl(GameUrl);
     }
 
     public async Task TypeAnswer(int answer)
