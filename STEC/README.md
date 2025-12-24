@@ -77,20 +77,45 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 
 ### Module 11: The outputs of software testing
 
+- [Lesson 1: Activity 1: Reflect on glue work ](Lesson-11-1.md)
+- [Lesson 1: Activity 2: Look again, think differently](Lesson-11-1.md)
+- [Lesson 1: Activity 3: Recognise how your skills add value](Lesson-11-1.md)
+- [Lesson 1: Activity 4: Reflect on collaboration](Lesson-11-1.md)
+- [Lesson 2: Practise categorising observations](Lesson-11-2.md)
+- [Lesson 3: TODO](Lesson-11-3.md)
+- [Lesson 4: TODO](Lesson-11-4.md)
+- [Lesson 5: TODO](Lesson-11-5.md)
+
 ### Module 12: The art of communicating testing
+
+- [Lesson : TODO](Lesson-12-.md)
 
 ### Module 13: Navigating the bug backlog with confidence
 
+- [Lesson : TODO](Lesson-13-.md)
+
 ### Module 14: Fail to plan, plan to fail
+
+- [Lesson : TODO](Lesson-14-.md)
 
 ### Module 15: Testing debt and maintaining a lean machine
 
+- [Lesson : TODO](Lesson-15-.md)
+
 ### Module 16: Technical testing
+
+- [Lesson : TODO](Lesson-16-.md)
 
 Side note: I contributed to the course with one of the lessons here!
 
 ### Module 17: Get started with test automation
 
+- [Lesson : TODO](Lesson-17-.md)
+
 ### Module 18: Testing specialisms
 
+- [Lesson : TODO](Lesson-18-.md)
+
 ### Module 19: Keeping up to date
+
+- [Lesson : TODO](Lesson-19-.md)
