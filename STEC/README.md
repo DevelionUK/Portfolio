@@ -82,9 +82,13 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 - [Lesson 1: Activity 3: Recognise how your skills add value](Lesson-11-1.md)
 - [Lesson 1: Activity 4: Reflect on collaboration](Lesson-11-1.md)
 - [Lesson 2: Practise categorising observations](Lesson-11-2.md)
-- [Lesson 3: TODO](Lesson-11-3.md)
-- [Lesson 4: TODO](Lesson-11-4.md)
-- [Lesson 5: TODO](Lesson-11-5.md)
+- [Lesson 3: Your top picks for collaboration and communication in testing](Lesson-11-3.md)
+- [Lesson 4: Your test artefact toolkit](Lesson-11-4.md)
+- [Lesson 5: Try out and compare two test case methods](Lesson-11-5.md)
+- [Lesson 6: Track a bug’s journey](Lesson-11-6.md)
+- [Lesson 7: Good vs. bad bug reports](Lesson-11-7.md)
+- [Lesson 8: How you build confidence through testing](Lesson-11-8.md)
+- [Lesson 9: When do you stop testing?](Lesson-11-9.md)
 
 ### Module 12: The art of communicating testing
 
