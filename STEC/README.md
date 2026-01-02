@@ -4,7 +4,9 @@ Whilst completing the MoT Software Testing Essentials Certificate I intend to do
 
 ## Lesson Activities
 
-Note that not every lesson has an activity. Some lessons will prompt for reflection and in several occasions I will write this down as a personal reflection.
+Note that not every lesson has an activity. Some lessons will prompt for reflection and in several occasions I will write this down as a personal reflection. After a particularly interesting lesson with no activity, I may reflect anyway.
+
+As I'm an experienced tester, some of the "my first" activities may be skipped or replaced by my reflections on the skill.
 
 ### Module 1 - What is software testing?
 
@@ -92,34 +94,62 @@ Note that not every lesson has an activity. Some lessons will prompt for reflect
 
 ### Module 12: The art of communicating testing
 
-- [Lesson : TODO](Lesson-12-.md)
+- [Lesson 1: TODO](Lesson-12-1.md)
+- [Lesson 2: TODO](Lesson-12-2.md)
+- [Lesson 3: TODO](Lesson-12-3.md)
+- [Lesson 4: TODO](Lesson-12-4.md)
+- [Lesson 5: TODO](Lesson-12-5.md)
+- [Lesson 6: TODO](Lesson-12-6.md)
 
 ### Module 13: Navigating the bug backlog with confidence
 
+- [Lesson 1: TODO](Lesson-13-1.md)
+- [Lesson 2: TODO](Lesson-13-2.md)
+- [Lesson 3: TODO](Lesson-13-3.md)
+- [Lesson 4: TODO](Lesson-13-4.md)
+- [Lesson : TODO](Lesson-13-.md)
 - [Lesson : TODO](Lesson-13-.md)
 
 ### Module 14: Fail to plan, plan to fail
 
-- [Lesson : TODO](Lesson-14-.md)
+- [Lesson 1: TODO](Lesson-14-1.md)
+- [Lesson 2: TODO](Lesson-14-2.md)
+- [Lesson 3: TODO](Lesson-14-3.md)
+- [Lesson 4: TODO](Lesson-14-4.md)
 
 ### Module 15: Testing debt and maintaining a lean machine
 
-- [Lesson : TODO](Lesson-15-.md)
+- [Lesson 1: TODO](Lesson-15-1.md)
+- [Lesson 2: TODO](Lesson-15-2.md)
+- [Lesson 4: TODO](Lesson-15-4.md)
 
 ### Module 16: Technical testing
 
-- [Lesson : TODO](Lesson-16-.md)
+- [Lesson 1: TODO](Lesson-16-1.md)
+- [Lesson 2: TODO](Lesson-16-2.md)
+- [Lesson 3: TODO](Lesson-16-3.md)
+- [Lesson 12: TODO](Lesson-16-12.md)
 
 Side note: I contributed to the course with one of the lessons here!
 
 ### Module 17: Get started with test automation
 
-- [Lesson : TODO](Lesson-17-.md)
+- [Lesson 1: TODO](Lesson-17-1.md)
+- [Lesson 2: TODO](Lesson-17-2.md)
+- [Lesson 3: TODO](Lesson-17-3.md)
+- [Lesson 4: TODO](Lesson-17-4.md)
+- [Lesson 5: TODO](Lesson-17-5.md)
 
 ### Module 18: Testing specialisms
 
-- [Lesson : TODO](Lesson-18-.md)
+- [Lesson 1: TODO](Lesson-18-1.md)
+- [Lesson 2: TODO](Lesson-18-2.md)
+- [Lesson 3: TODO](Lesson-18-3.md)
+- [Lesson 4: TODO](Lesson-18-4.md)
 
 ### Module 19: Keeping up to date
 
-- [Lesson : TODO](Lesson-19-.md)
+- [Lesson 1: TODO](Lesson-19-1.md)
+- [Lesson 2: TODO](Lesson-19-2.md)
+- [Lesson 3: TODO](Lesson-19-3.md)
+- [Lesson 5: TODO](Lesson-19-5.md)
