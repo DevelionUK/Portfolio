@@ -1,0 +1,7 @@
+{
+    "dotnet.defaultSolution": "AiT.sln",
+    "files.exclude": { // excludes compilation result
+        "**/obj/": true,
+        "**/bin/": true,
+    }
+}
