@@ -1,6 +1,6 @@
 using AiT.WebTest.PageObjectModels;
 
-namespace AiT.WebTest;
+namespace AiT.WebTest.Tests;
 
 [TestClass]
 public class HomePageTests : PageTest

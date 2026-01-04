@@ -2,7 +2,7 @@ using AiT.WebTest.PageObjectModels;
 using Microsoft.Playwright;
 using Microsoft.Playwright.MSTest;
 
-namespace AiT.WebTest;
+namespace AiT.WebTest.Tests;
 
 [TestClass]
 public class GamePageTests : PageTest
@@ -12,6 +12,9 @@ public class GamePageTests : PageTest
     [TestInitialize]
     public async Task GamePageSetup()
     {
+        QuestsPageModel questsPage = new (Page);
+        await questsPage.SetQuest("The Locked Room");
+
         gamePage = new(Page);
         await gamePage.Setup();  
     }

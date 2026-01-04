@@ -21,7 +21,7 @@ public class GamePageModel : BasePageModel
 
     public async Task ClickSubmit()
     {
-        var submitButton = Page.GetByRole(AriaRole.Button);
+        var submitButton = Page.GetByRole(AriaRole.Button, new() { Name = "Submit" });
         await submitButton.ClickAsync();
     }
 }
