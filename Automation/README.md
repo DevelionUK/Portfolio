@@ -23,13 +23,21 @@ I've also used CppUnit.
 
 As obviously I can't share any of the professional work I've done, instead I'm adding a few small projects to demonstrate usage of some frameworks / techniques.
 
+#### Adventures in Text
+
+[Adventures in Text Automation](AdventuresInTextAutomation)
+
+Adventures in Text is a game that I originally released on Xbox 360 in 2016 and I've been remaking it with a mix of different frameworks and front ends in order to allow me to dabble with some different technologies.
+
+Whilst the project itself has unit tests (at least for the core gameplay library), I have decided to include the E2E tests within this repository. There's some C# Playwright tests so far plus a couple of K6 scripts.
+
 #### Security Test Activities
 
 [Security Test Activities](SecurityTestActivities)
 
-I've created a suite of activities for people to practice & learn basic security testing with. Within this solutuion I will be using different frameworks to test that the pages are working.
+I've created a suite of activities for people to practice & learn basic security testing with. Within this solution I will be using different frameworks to test that the pages are working.
 
-So far I've used Selenium with C#.
+So far I've used Selenium with C#, including layered acceptance tests via Reqnroll.
 
 #### TDD Workshop
 
