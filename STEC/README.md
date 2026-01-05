@@ -94,12 +94,10 @@ As I'm an experienced tester, some of the "my first" activities may be skipped o
 
 ### Module 12: The art of communicating testing
 
-- [Lesson 1: TODO](Lesson-12-1.md)
-- [Lesson 2: TODO](Lesson-12-2.md)
-- [Lesson 3: TODO](Lesson-12-3.md)
-- [Lesson 4: TODO](Lesson-12-4.md)
-- [Lesson 5: TODO](Lesson-12-5.md)
-- [Lesson 6: TODO](Lesson-12-6.md)
+- [Lesson 1: Compare an issue reported by two testers](Lesson-12-1.md)
+- [Lesson 2: Mapping testing evidence to scenarios](Lesson-12-2.md)
+- [Lesson 3: What test artefacts do you use, and why?](Lesson-12-3.md)
+- [Lesson 5: Mapping stakeholder expectations](Lesson-12-5.md)
 
 ### Module 13: Navigating the bug backlog with confidence
 
