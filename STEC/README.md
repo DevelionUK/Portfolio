@@ -101,12 +101,10 @@ As I'm an experienced tester, some of the "my first" activities may be skipped o
 
 ### Module 13: Navigating the bug backlog with confidence
 
-- [Lesson 1: TODO](Lesson-13-1.md)
-- [Lesson 2: TODO](Lesson-13-2.md)
-- [Lesson 3: TODO](Lesson-13-3.md)
-- [Lesson 4: TODO](Lesson-13-4.md)
-- [Lesson : TODO](Lesson-13-.md)
-- [Lesson : TODO](Lesson-13-.md)
+- [Lesson 1: From history to headlines: Understanding the impact of bugs](Lesson-13-1.md)
+- [Lesson 2: How would you prioritise this bug?](Lesson-13-2.md)
+- [Lesson 3: What would you do after the fix?](Lesson-13-3.md)
+- [Lesson 4: Understanding retesting and regression testing](Lesson-13-4.md)
 
 ### Module 14: Fail to plan, plan to fail
 
