@@ -108,10 +108,9 @@ As I'm an experienced tester, some of the "my first" activities may be skipped o
 
 ### Module 14: Fail to plan, plan to fail
 
-- [Lesson 1: TODO](Lesson-14-1.md)
-- [Lesson 2: TODO](Lesson-14-2.md)
-- [Lesson 3: TODO](Lesson-14-3.md)
-- [Lesson 4: TODO](Lesson-14-4.md)
+- [Lesson 1: Test Planning Exercise](Lesson-14-1.md)
+- [Lesson 2: How has test planning changed?](Lesson-14-2.md)
+- [Lesson 4: Create an action plan: Your checklist for unblocking testing](Lesson-14-4.md)
 
 ### Module 15: Testing debt and maintaining a lean machine
 
