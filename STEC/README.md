@@ -114,8 +114,8 @@ As I'm an experienced tester, some of the "my first" activities may be skipped o
 
 ### Module 15: Testing debt and maintaining a lean machine
 
-- [Lesson 1: TODO](Lesson-15-1.md)
-- [Lesson 2: TODO](Lesson-15-2.md)
+- [Lesson 1: Define technical debt in your own words](Lesson-15-1.md)
+- [Lesson 2: Spot the symptoms of testing debt](Lesson-15-2.md)
 - [Lesson 4: TODO](Lesson-15-4.md)
 
 ### Module 16: Technical testing
