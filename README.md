@@ -16,6 +16,18 @@ I would describe my key skills:
 
 For a fuller list of my technical and soft skills, including tools etc, then check out my [Skills](skills.md) page.
 
+## Certifications & Awards
+
+### Certifications
+
+- [MoT Software Testing Essentials Certificate](Certificates/MoT_Software_Testing_Essentials_Certificate.pdf): A modernised version of ISTQB Foundational involving many activities, talks, articles and more. I completed this publicly - you can view my activities [here](STEC/).
+- [Motorola Solutions Cyber Champion](Certificates/CyberChampion_Certificate_RL.pdf): Completed a course on cyber security to become a Cyber Champion.
+
+### Awards
+- [Motorola Solutions Application Security Outstanding Contributions](Certificates/MSI_ApplicationSecurity_OutstandingContributions.jpg): Awarded for my contributions to threat modelling internally and also within the software community.
+- [IndigoVision Engineering Excellence Award](Certificates/IV_EngineeringExcellence.jpg): Awarded for my work as a Senior Test Engineer.
+- [MoT Community Certificate](Certificates/MoT_Community_Certificate.pdf): Given to members who've been active and contributed to the community.
+
 ## Speaking, Teaching & Courses
 
 I have spoken at several conferences, primarily on security and threat modelling. Here's some highlights.
