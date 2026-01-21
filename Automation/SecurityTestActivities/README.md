@@ -25,3 +25,11 @@ Within this project I have a feature file that details the expected behaviour in
 I'll admit that I'm not happy with my scenarios, or including the tear down in the step definition class and having "driver." throughout... but it is quite nice having this behaviour differentiated.
 
 For clarity, I have deliberately avoided using the term "BDD" here as I'm writing the tests after the fact. They may be similar to what I'd look to do when working within BDD but the most crucial aspect of BDD is that discovery phase.
+
+### java
+
+Unsurprisingly in here there are tests written in Java. I've used Playwright for both browser and API based tests, covering similar areas to my Layered Acceptance Tests. The structure is also fairly familiar to most of my automation with the junit tests merely providing the steps and then within drivers folder I have the POM equivalent that dictates how the tests are executed.
+
+Being my first dabble with Java in a long time, they aren't the neatest and I suspect my code style is showing my C# roots.
+
+
