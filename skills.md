@@ -28,7 +28,7 @@ This outlines skills that I have acquired. Some will be stronger than others. Wh
 - Problem Solver
 - [Public Speaking](speaking.md)
 - Refinement
-- [Root Cause Analysis (RCA)](https://www.r-adams.co.uk/resources/meaningful-rcas/)
+- [Root Cause Analysis (RCA)](https://www.r-adams.co.uk/resources/meaningful-rcas/) (akin to blameless postmortems)
 - [Test Strategy](https://www.r-adams.co.uk/2025/09/19/collaborative-test-strategy/)
 - [Workshops](https://www.r-adams.co.uk/2023/12/14/running-workshops/) (see also, some workshops listed in my [Public Speaking](speaking.md] page)
 
@@ -60,6 +60,7 @@ My strongest and preferred language is C#. I have lots of experience of using Py
 I have some level of experience with:
 - Bash & Shell
 - C++
+- Javascript / Typescript
 - Perl
 - PHP
 
@@ -73,8 +74,8 @@ I have some level of experience with:
 - Playwright (limited)
 - Postman (limited)
 - Protactor (limited)
-- SpecFlow (limited)
-- xUnit
+- Reqnroll / SpecFlow (limited)
+- xUnit (limited)
 
 ### Tools
 
